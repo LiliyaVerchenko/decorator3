@@ -1,0 +1,5 @@
+[]"Date: 2020-08-30, Time: 22:21:56.288197, Function name: new_function, Args: ('abc', 'erd'), Kwargs: {};"
+"Date: 2020-08-30, Time: 22:21:56.289179, Function name: new_function, Args: ('abc', 'erd1'), Kwargs: {};"
+"Date: 2020-08-30, Time: 22:21:56.289179, Function name: new_function, Args: ('abc', 'erd2'), Kwargs: {};"
+"Date: 2020-08-30, Time: 22:21:56.289679, Function name: new_function, Args: ('abc', 'erd3'), Kwargs: {};"
+"Date: 2020-08-30, Time: 22:21:56.290180, Function name: new_function, Args: ('abc', 'erd4'), Kwargs: {};"
